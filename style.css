@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.txt{
+    display: flex;
+}
+/* img */
+.m1{
+    width: 50px;
+}
+.t1{
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+}
